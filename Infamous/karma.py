@@ -83,7 +83,7 @@ ALIVE_BTN = [
 ]
 
 HELP_STRINGS = """
-🫧 *Yae-Miko* 🫧
+🫧 *Fubuki* 🫧
 
 ☉ *Here, you will find a list of all the available commands.*
 
